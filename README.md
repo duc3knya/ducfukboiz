@@ -7,6 +7,8 @@
   <samp>
    Tôi là Lê Năng Hoàng Đức, mọi người thường gọi tôi là Năng Đức :v ừ thì tôi mới chỉ là học sinh THCS và có tham vọng thi đậu vào trường THPT Lê Lợi :3 ước mơ của tôi là có thể đậu Đại Học, tôi rất thích tìm hiểu cũng như khám phá nhiều thứ trên mạng, tôi luôn cố gắng học hỏi mọi người để nâng cao trình độ của bản thân ^^ À, tôi còn rất thích lập trình, tôi có dự định hè này sau khi thi xong kỳ thi vào 10, tôi sẽ học thêm về C++, python ...
   </samp>
+  Tôi Lê Năng Hoàng Đức sinh năm 2007 sẽ đậu THPT Lê Lợi ở Thọ Xuân, Thanh Hóa. Sau 3 năm học THPT tôi sẽ đậu vào 1 trường IT, sau khi ra trường tôi sẽ có một công việc ổn định và chăm sóc bố mẹ!
+    </samp>
 </p>
 
 ### Để đây thui chứ chưa học ~~  :rocket:
