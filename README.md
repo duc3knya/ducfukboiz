@@ -5,9 +5,9 @@
   <img src="https://mrwgifs.com/wp-content/uploads/2015/03/Colossal-Titan-Flipping-THe-Bird-On-The-Town-In-The-Anime-Attack-On-Titan.gif" width=200>
   <br><br>
   <samp>
-   Tôi là Lê Năng Hoàng Đức, mọi người thường gọi tôi là Năng Đức :v ừ thì tôi mới chỉ là học sinh THCS và có tham vọng thi đậu vào trường THPT Lê Lợi :3 ước mơ của tôi là có thể đậu Đại Học, tôi rất thích tìm hiểu cũng như khám phá nhiều thứ trên mạng, tôi luôn cố gắng học hỏi mọi người để nâng cao trình độ của bản thân ^^ À, tôi còn rất thích lập trình, tôi có dự định hè này sau khi thi xong kỳ thi vào 10, tôi sẽ học thêm về C++, python ...
+Hi, I'm Lê Năng Hoàng Đức ( duc3knya ) tôi không có idea để viết thêm... nên chỉ như này thôi
   </samp>
-  Tôi Lê Năng Hoàng Đức sinh năm 2007 sẽ đậu THPT Lê Lợi ở Thọ Xuân, Thanh Hóa. Sau 3 năm học THPT tôi sẽ đậu vào 1 trường IT, sau khi ra trường tôi sẽ có một công việc ổn định và chăm sóc bố mẹ!
+  Tôi sẽ tự viết tiếp cuộc đời mình, hoặc không...
     </samp>
 </p>
 
@@ -18,7 +18,7 @@
 
 
 ### Kết bạn với tuiiii :smiley:
-<a href="https://www.facebook.com/Mark.Zuckerberg2405">
+<a href="https://www.facebook.com/duc3knya">
   <img align="left" alt="Lê Năng Hoàng Đức" width="21px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqBZtvri3gY6yZyRDmjC8VA7QtJhZzVTbuTA&usqp=CAU" />
 </a>
 
